@@ -1,4 +1,5 @@
-**Hello! I'm Feliks.** I'm a student who enjoys exploring technology, design, and engineering. Welcome to my GitHub profile, where I share my projects and interests.
+## Hello! I'm Feliks.
+I'm a student who enjoys exploring technology, design, and engineering. Welcome to my GitHub profile, where I share my projects and interests.
 
 ## About Me
 I'm passionate about **Engineering** and **Computer Science**, and I love getting hands-on with software development and embedded systems. I’m always eager to learn new skills and apply them by creating innovative and functional solutions.
