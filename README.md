@@ -8,7 +8,7 @@ I'm passionate about **Engineering** and **Computer Science**, and I love gettin
 Here are some of the tools and technologies I like to work with:
 
 - 🌐 **Web Development** (HTML, CSS, JavaScript)
-- ⚙️ **Embedded Systems** (CircuitPython, MicroPython)
+- ⚙️ **Embedded Systems** (CircuitPython, MicroPython, Arduino IDE)
 - 🐍 **Python** (Desktop Applications)
 - 📱 **MIT App Inventor** (Mobile Applications)
 - 🖥️ **Linux Terminal & Scripting**
