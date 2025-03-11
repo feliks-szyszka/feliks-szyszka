@@ -1,7 +1,7 @@
 ## Hello! I'm Feliks.
 I'm a student passionate about technology, design, and engineering.
 
-##Skills and Tools
+## Skills and Tools
 **Engineering & Design:**
 - 3D CAD: DesignSpark, FreeCAD
 - 3D Printing: Slicing Software, Ender 3 Pro
