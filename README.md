@@ -2,7 +2,7 @@
 I'm a student passionate about technology and building cool sh*t.
 
 ## skills and tools
-**engineering + design:**
+**design:**
 - 3D CAD: DesignSpark, FreeCAD
 - 3D Printing: Ender 3 Pro
 
@@ -12,7 +12,7 @@ I'm a student passionate about technology and building cool sh*t.
 - Software Development: Python
 - Mobile Development: MIT App Inventor
 
-**creative Tools:**
+**graphics:**
 - 3D Rendering: Blender
 - Graphic Design: Affinity + Adobe Suite
 - Video Editing: DaVinci Resolve
