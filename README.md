@@ -1,18 +1,18 @@
-## hi. i'm feliks.
-i'm a student passionate about technology, design, and engineering.
+## Hi. I'm Feliks.
+I'm a student passionate about technology and building cool sh*t.
 
 ## skills and tools
 **engineering + design:**
 - 3D CAD: DesignSpark, FreeCAD
-- 3D Printing: Slicing Software, Ender 3 Pro
+- 3D Printing: Ender 3 Pro
 
-**programming + development:**
+**development:**
 - Web Development: HTML, CSS, JavaScript
 - Embedded Systems: CircuitPython, MicroPython, Arduino IDE
 - Software Development: Python
 - Mobile Development: MIT App Inventor
 
-**creative tools:**
+**creative Tools:**
 - 3D Rendering: Blender
 - Graphic Design: Affinity + Adobe Suite
 - Video Editing: DaVinci Resolve
@@ -22,15 +22,15 @@ i'm a student passionate about technology, design, and engineering.
 - Linux
 
 ## my current setup
-i work on a mediocre pc with:
+I work on a mediocre pc with:
 - Intel i5-3570K
 - 8GB RAM
-- GTX 750Ti
+- GTX 750 Ti
 - 500GB SSD
 - 500GB HDD
 
 ## portfolio
-feel free to check out my [portfolio](https://feliks-szyszka.github.io) to see some of the projects I’ve been working on.
+Feel free to check out my [portfolio](https://feliks-szyszka.github.io) to see some of my work.
 
 ## get in touch
-if you have any questions or want to collaborate, feel free to [get in touch](https://feliks-szyszka.github.io/contact.html).
+If you have any questions or want to collaborate, feel free to [get in touch](https://feliks-szyszka.github.io/).
