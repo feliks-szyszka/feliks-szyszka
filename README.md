@@ -12,10 +12,11 @@ I'm a student passionate about technology and building cool sh*t.
 - Software Development: Python
 - Mobile Development: MIT App Inventor
 
-**graphics:**
+**creative:**
 - 3D Rendering: Blender
-- Graphic Design: Affinity + Adobe Suite
+- Graphic Design: Affinity Suite
 - Video Editing: DaVinci Resolve
+- Music Production: FL Studio
 
 **operating systems:**
 - Windows
